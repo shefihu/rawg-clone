@@ -6,7 +6,7 @@ This project is a streamlined rebuild of the [Rawg Website](https://rawg.io/), d
 
 ## Live Demo
 
-Experience the live demo here: [Rawg Clone](https://rawg-clone.vercel.app/)
+Experience the live demo here: [Rawg Clone](https://rawgclone.olarotimi.dev/)
 
 ## Features
 
